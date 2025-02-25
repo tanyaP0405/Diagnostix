@@ -52,22 +52,31 @@ Diagnostix is an AI-driven web application designed to empower healthcare profes
    
 2. **Home Page ("/"):**  
    - Introduction to Diagnostix with a brief overview and a prominent "Start Diagnosis" button.
-   
+
+   ![ss1](https://github.com/user-attachments/assets/cd3b72b3-c47f-4ec1-a5eb-5728f8da1f2a)
+
 3. **Patient Input Page ("/patient-input"):**  
    - Collect patient details (name, age, gender, medical history) and symptoms through a responsive form.
+   - ![ss2](https://github.com/user-attachments/assets/32451a0b-0cf2-4101-9d7f-2ebfc98d5e95)
    
 4. **Medical Image Upload Page ("/upload-images"):**  
    - Upload one or more medical images (e.g., X-rays, MRIs) with preview functionality.
-   
+   ![ss3](https://github.com/user-attachments/assets/6614ade3-5f47-413f-940b-7da0c90faa1f)
+
 5. **Diagnostic Results Page ("/results"):**  
    - View diagnostic analysis including annotated images, summary of findings, and overall diagnosis.
-   
+   - 
+   ![ss6](https://github.com/user-attachments/assets/9fbe2138-984b-4af6-a12e-809129334e70)
+
 6. **Detailed Diagnosis Report Page ("/detailed-report"):**  
    - Access a comprehensive diagnostic report that can be reviewed, printed, or downloaded.
-   
+     ![ss4](https://github.com/user-attachments/assets/c933cbbb-9a92-40ba-a958-4c97f4c66717)
+
 7. **Prescription Matching Page ("/prescription"):**  
    - Upload images of handwritten prescriptions for OCR processing and text extraction.
-   
+   - 
+   ![ss5](https://github.com/user-attachments/assets/1f92cb9b-e432-4e9b-9c03-2e7cd83f4dec)
+
 8. **Order Confirmation Page ("/order-confirmation"):**  
    - Review and confirm matched or newly generated patient orders based on prescription data.
 
